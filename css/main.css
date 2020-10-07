@@ -103,5 +103,8 @@ a:focus {
     padding: 3em;
   }
 
+  h4 {
+    display: flex;
+  }
 
 }
